@@ -1,4 +1,4 @@
-# wirvsvirus-challenge-accepted
+# Challenge Accepted - the app for mental health
 
 Our challenge at [devpost.com](https://devpost.com/software/1_0018_mentalhealth_homealonechallenge-wganer)
 
